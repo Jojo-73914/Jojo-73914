@@ -214,22 +214,13 @@ Novas ideias, experimentos e projetos serão adicionados conforme meu inventári
 
 ## `06 // THE LAST BONFIRE`
 
-```text
-             .     (  .
-          .       )   (
-            .   (     )
-               )   )  (
-             .   (     )
-                 )   (
-               .  ) (
-                  ||
-                  ||
-             _____||_____
-            /            \
-           /______________\
+---
 
-          THE FLAME STILL BURNS.
-```
+<div align="center">
+  <img src="./assets/qQbFutP.gif" width="500">
+</div>
+
+---
 
 <div align="center">
 
