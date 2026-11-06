@@ -195,7 +195,7 @@ Novas ideias, experimentos e projetos serão adicionados conforme meu inventári
 ---
 
 ## `05 // GITHUB STATISTICS`
-
+<br>
 
 <img src="https://streak-stats.demolab.com?user=Jojo-73914&hide_border=true&background=080A0D&ring=39FF88&fire=FFB454&currStreakLabel=39FF88&sideLabels=A5AAA5&dates=777777&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
 
