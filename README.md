@@ -18,7 +18,7 @@
 ```
 
 <div align="center">
-  <img src="./assets/nerd.gif" width="400">
+  <img src="./assets/nerd.gif" width="250">
 </div>
 
 <br/>
