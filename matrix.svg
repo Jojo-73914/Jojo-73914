@@ -33,16 +33,17 @@
 
   <rect width="900" height="230" fill="#050805" opacity=".55"/>
 
-  <g fill="#39FF14" font-family="monospace" font-size="15" text-anchor="middle">
-    <text x="450" y="65">
-      <tspan x="450">         ██████╗ ██████╗  ██████╗ ██████╗</tspan>
-      <tspan x="450" dy="18">     ██║██╔═══██╗     ██║██╔═══██╗</tspan>
-      <tspan x="450" dy="18">     ██║██║   ██║     ██║██║   ██║</tspan>
-      <tspan x="450" dy="18">██   ██║██║   ██║██   ██║██║   ██║</tspan>
-      <tspan x="450" dy="18">╚█████╔╝╚██████╔╝╚█████╔╝╚██████╔╝</tspan>
-      <tspan x="450" dy="18"> ╚════╝  ╚═════╝  ╚════╝  ╚═════╝</tspan>
-    </text>
-  </g>
+  
+<g fill="#39FF14" font-family="monospace" font-size="13" text-anchor="middle" xml:space="preserve">
+  <text x="450" y="75">
+    <tspan x="450">     ██╗ ██████╗      ██╗ ██████╗ </tspan>
+    <tspan x="450" dy="18">     ██║██╔═══██╗     ██║██╔═══██╗</tspan>
+    <tspan x="450" dy="18">     ██║██║   ██║     ██║██║   ██║</tspan>
+    <tspan x="450" dy="18">██   ██║██║   ██║██   ██║██║   ██║</tspan>
+    <tspan x="450" dy="18">╚█████╔╝╚██████╔╝╚█████╔╝╚██████╔╝</tspan>
+    <tspan x="450" dy="18"> ╚════╝  ╚═════╝  ╚════╝  ╚═════╝</tspan>
+  </text>
+</g>
 
   <text x="450" y="205" fill="#39FF14" font-family="monospace" font-size="12" text-anchor="middle">[ SYSTEM ONLINE ] _</text>
 </svg>
