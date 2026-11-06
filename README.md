@@ -1,7 +1,20 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:080A0D,50:14251B,100:080A0D&text=JOJO-73914&fontColor=39FF88&fontSize=55&fontAlignY=50&desc=SOFTWARE%20DEVELOPER%20%7C%20DIGITAL%20EXPLORER&descSize=12&descColor=A5AAA5&descAlignY=75"/>
+<img src="./matrix.svg" width="100%"/>
+
+```text
+root@jojo:~$ whoami
+jojo-73914
+
+root@jojo:~$ echo "Welcome to my profile"
+Welcome to my digital archive.
+
+root@jojo:~$ _
+```
+
+</div>
+
 
 ```text
       ╔══════════════════════════════════════════════════════╗
