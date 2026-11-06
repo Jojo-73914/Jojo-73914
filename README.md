@@ -4,18 +4,18 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:080A0D,50:14251B,100:080A0D&text=JOJO-73914&fontColor=39FF88&fontSize=55&fontAlignY=50&desc=SOFTWARE%20DEVELOPER%20%7C%20DIGITAL%20EXPLORER&descSize=12&descColor=A5AAA5&descAlignY=75"/>
 
 ```text
-   ╔══════════════════════════════════════════════════════╗
-   ║                                                      ║
-   ║   ██████╗  ██████╗      ██╗ ██████╗                  ║
-   ║  ██╔═══██╗██╔═══██╗     ██║██╔═══██╗                 ║
-   ║  ██║   ██║██║   ██║     ██║██║   ██║                 ║
-   ║  ██║   ██║██║   ██║██   ██║██║   ██║                 ║
-   ║  ╚██████╔╝╚██████╔╝╚█████╔╝╚██████╔╝                 ║
-   ║   ╚═════╝  ╚═════╝  ╚════╝  ╚═════╝                  ║
-   ║                                                      ║
-   ║           [ SYSTEM BOOTED SUCCESSFULLY ]             ║
-   ║                                                      ║
-   ╚══════════════════════════════════════════════════════╝
+      ╔══════════════════════════════════════════════════════╗
+      ║                                                      ║
+      ║              ██╗  ██████╗       ██╗  ██████╗         ║
+      ║              ██║ ██╔═══██╗      ██║ ██╔═══██╗        ║
+      ║              ██║ ██║   ██║      ██║ ██║   ██║        ║
+      ║        ██║   ██║ ██║   ██║ ██   ██║ ██║   ██║        ║
+      ║        ╚██████╔╝ ╚██████╔╝ ╚█████╔╝ ╚██████╔╝        ║
+      ║         ╚═════╝   ╚═════╝   ╚════╝   ╚═════╝         ║
+      ║                                                      ║
+      ║             [ SYSTEM BOOTED SUCCESSFULLY ]           ║
+      ║                                                      ║
+      ╚══════════════════════════════════════════════════════╝
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=bold&size=16&duration=2500&pause=1000&color=39FF88&center=true&vCenter=true&width=600&lines=%3E+Hello%2C+World!;%3E+Initializing+developer+profile...;%3E+Loading+projects...;%3E+Welcome+to+my+digital+archive."/>
