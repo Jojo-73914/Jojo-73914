@@ -45,7 +45,9 @@
 ╚══════════════════════════════════════════════╝
 ```
 
-### Hey, I'm Jojo.
+### SOBRE MIM.
+
+---
 
 Sou entusiasta de tecnologia e desenvolvimento de software, interessado em explorar diferentes áreas da programação e transformar ideias em projetos reais.
 
