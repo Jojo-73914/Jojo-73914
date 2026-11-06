@@ -5,7 +5,7 @@
 
 </div>
 
-<div align="center">
+
 ```text
       ╔══════════════════════════════════════════════════════╗
       ║                                                      ║
@@ -20,7 +20,6 @@
       ║                                                      ║
       ╚══════════════════════════════════════════════════════╝
 ```
-</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=bold&size=16&duration=2500&pause=1000&color=39FF88&center=true&vCenter=true&width=600&lines=%3E+Hello%2C+World!;%3E+Initializing+developer+profile...;%3E+Loading+projects...;%3E+Welcome+to+my+digital+archive."/>
 
