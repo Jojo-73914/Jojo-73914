@@ -196,15 +196,6 @@ Novas ideias, experimentos e projetos serão adicionados conforme meu inventári
 
 ## `05 // GITHUB STATISTICS`
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Jojo-73914&show_icons=true&hide_border=true&bg_color=080A0D&title_color=39FF88&text_color=A5AAA5&icon_color=FFB454&ring_color=39FF88&include_all_commits=true"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jojo-73914&layout=compact&hide_border=true&bg_color=080A0D&title_color=39FF88&text_color=A5AAA5"/>
-
-<br/>
 
 <img src="https://streak-stats.demolab.com?user=Jojo-73914&hide_border=true&background=080A0D&ring=39FF88&fire=FFB454&currStreakLabel=39FF88&sideLabels=A5AAA5&dates=777777&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
 
